@@ -27,7 +27,7 @@ const Dni = addKeyword(['dni']).addAnswer ('*Corroborando información...*')
 const Entregas = addKeyword(['retiros', 'retirar',])
                 .addAnswer ('Para saber el **estado** de su reparación, ingrese su *DNI* de la siguiente manera: *"DNI 11.111.111".*')
              
-const FlujoDemora = addKeyword(['demoran','tardan','demorar','demora']).addAnswer ('explicacion magistral de que tardas porque sos bueno y CARO a la vez por lo mismo  e informativa.')
+const FlujoDemora = addKeyword(['demoran','tardan','demorar','demora']).addAnswer ('explacacion.')
 
 const ListaDeAccesorios = addKeyword (['Accesorios','Accesorio','accesorios','covertor','funda','fundas','templado','hydrogel','airpods','cable','cargador']).addAnswer('Encontré este listado para ti:*link* !') 
 
